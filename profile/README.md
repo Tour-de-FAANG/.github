@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://tour-de-faang.modern-dev.com/">
-    <img src="https://tour-de-faang.modern-dev.com/assets/logo.png" alt="Tour de FAANG logo" width="200" height="200">
+    <img src="https://modern-dev.com/tour-de-faang/assets/logo.png" alt="Tour de FAANG logo" width="200" height="200">
   </a>
 </p>
 
